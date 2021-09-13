@@ -21,24 +21,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         button.setOnClickListener(this);
         button1.setOnClickListener(this);
     }
-//    public void onButtonClick(View v){
-//        EditText e1= (EditText)findViewById(R.id.editTextNumber);
-//        EditText e2= (EditText)findViewById(R.id.editTextNumber2);
-//        TextView t1= (TextView)findViewById(R.id.editTextTextPersonName);
-//        int num1 = Integer.parseInt(e1.getText().toString());
-//        int num2= Integer.parseInt(e2.getText().toString());
-//        int sum= num1+num2;
-//        t1.setText(Integer.toString(sum));
 
-
-//        EditText e3= (EditText)findViewById(R.id.editTextNumber);
-//        EditText e4= (EditText)findViewById(R.id.editTextNumber2);
-//        TextView t2= (TextView)findViewById(R.id.editTextTextPersonName);
-//        int num3 = Integer.parseInt(e1.getText().toString());
-//        int num4= Integer.parseInt(e2.getText().toString());
-//        int sub= num1-num2;
-//        t1.setText(Integer.toString(sub));
-//    }
 
 
     @Override
